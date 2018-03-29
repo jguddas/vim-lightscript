@@ -3,6 +3,8 @@ vim-lightscript
 
 Syntax highlighting for [Lightscript](http://lightscript.org/).
 
+![](https://raw.githubusercontent.com/jguddas/vim-lightscript/master/preview.png)
+
 Usage
 -----
 
