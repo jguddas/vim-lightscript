@@ -4,6 +4,7 @@ endif
 
 setlocal foldmethod=manual
 setlocal indentexpr=
+setlocal expandtab
 runtime! syntax/javascript.vim
 
 syntax keyword lscAwait       <- <!-
