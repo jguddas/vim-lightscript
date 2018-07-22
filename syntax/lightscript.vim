@@ -3,6 +3,7 @@ if exists("b:current_syntax")
 endif
 
 setlocal foldmethod=manual
+setlocal indentexpr=
 runtime! syntax/javascript.vim
 
 syntax keyword lscAwait       <- <!-
